@@ -1,6 +1,6 @@
 # hxp_photo_eye
 Android Gallery Spyware Using Telegram Bot
-![20230911_233150_0000](https://github.com/hackerxphantom/hxp_photo_eye/assets/70594016/c0b62da0-8483-4c27-aa62-f525f4a82c61)
+![20230911_233150_0000](https://github.com/hackerxphantom/hxp_photo_eye/assets/70594016/4a1d06c0-a113-4680-993c-c50d37972d4b)
 
 ### About
 This software is made for educational purposes only !
@@ -13,7 +13,9 @@ Auto Forwarding
 ### Demo Video 
 
 
-https://github.com/hackerxphantom/hxp_photo_eye/assets/70594016/f838319f-d59d-45ed-9182-6f1c46cfe358
+
+
+https://github.com/hackerxphantom/hxp_photo_eye/assets/70594016/c1b10e00-0105-49af-8015-d30094d15d32
 
 
 
