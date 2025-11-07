@@ -4,7 +4,7 @@ Android Gallery Spyware Using Telegram Bot
 
 ### About
 This software is made for educational purposes only !
-Hxp Photo Eye is a software for spying on Android saved photos, after installing Hxp Photo Eye on victim device, Hxp Photo Eye will forward all victim saved photos to your telegram bot
+
 
 ### Features
 Customizable
@@ -14,12 +14,8 @@ Auto Forwarding
 
 ### Demo Video 
 
-
-
-
-https://github.com/hackerxphantom/hxp_photo_eye/assets/70594016/c1b10e00-0105-49af-8015-d30094d15d32
-
+Sorry No updatess
 
 
 ### Apk Link
-## Pay For Full Tutorial And Apk 
+## No Updates 
